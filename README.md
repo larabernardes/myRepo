@@ -1,0 +1,2 @@
+# myRepo
+Trying out GitHub
